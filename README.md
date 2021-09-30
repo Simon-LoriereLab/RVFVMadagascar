@@ -1,5 +1,4 @@
-# RVFV_Madagascar
-Genomics of the outbreak of Rift Valley fever virus in Madagascar 2021
+# Genomics of the outbreak of Rift Valley fever virus in Madagascar 2021
 
 This repository analyzes genomes of Rift Valley fever virus (RVFV) circulating in madagascar 2021 (n=17) using Nextstrain. The build was constructed using a total of 147 RVFV full-length genomes (all 3 segments). 
 
