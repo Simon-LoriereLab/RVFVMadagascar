@@ -1,6 +1,6 @@
 {
   "meta": {
-    "build_url": "https://",
+    "build_url": "https://github.com/Simon-LoriereLab",
     "colorings": [
       {
         "key": "gt",
@@ -305,8 +305,8 @@
     ],
     "maintainers": [
       {
-        "name": "ESL",
-        "url": "http://"
+        "name": "Simon-Loriere Lab",
+        "url": "https://github.com/Simon-LoriereLab"
       }
     ],
     "panels": [
