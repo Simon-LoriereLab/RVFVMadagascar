@@ -6,6 +6,6 @@ This work is ongoing, and is performed in collaboration with [Institut Pasteur d
 
 Please do not hesitate to [contact us](https://research.pasteur.fr/en/team/evolutionary-genomics-rna-viruses/) if this could be relevant to your work!
 
-The phylogeny can be visualized at https://nextstrain.org/community/Simon-LoriereLab/rift_L@main
+The phylogenies of each segment (S, M and L) can be visualized at https://nextstrain.org/community/Simon-LoriereLab/RVFVMadagascar@main/L .
 
 This work is made possible by the open sharing of genetic data by research groups from all over the world. We gratefully acknowledge their contributions.
